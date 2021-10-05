@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Charles Pelletier
-- 👀 I’m interested in "...Simplify things"
+- 👀 I’m interested in "...Simplifying things"
 - 🌱 I’m currently learning Geometric Algebra
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : charles.pelletier@transports.gouv.qc.ca
